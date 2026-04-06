@@ -1,6 +1,6 @@
 # Hi! I am Sergey
 
-I am a Junior Developer, and actively develop and maintain back-end systems. Proficient in Python and Epic Games' programming language called Verse used in UEFN (Unreal Editor for Fortnite), and have moderate knowledge of C++, C#, JavaScript, and Lua.
+I am a Mid-Level Developer, and actively develop and maintain back-end systems. Proficient in Python and Epic Games' programming language called Verse used in UEFN (Unreal Editor for Fortnite), and have moderate knowledge of C++, C#, JavaScript, and Lua.
 
 ## My projects
 
